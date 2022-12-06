@@ -1,0 +1,12 @@
+{
+    "model_name": "mixed_effect_example",
+    "model_file": "model.py",
+    "model_results_dir": "results",
+    "max_iterations": 2000,
+    "n_iterations": 1000,
+    "burn_in_len": 900,
+    "n_chains": 5,
+    "ncr": 4,
+    "gamma_levels": 8, 
+    "p_gamma_unity": 0.1
+}
