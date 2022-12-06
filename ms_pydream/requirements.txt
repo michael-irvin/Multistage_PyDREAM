@@ -1,0 +1,5 @@
+pydream
+numpy
+scipy
+matplotlib
+pandas
